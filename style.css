@@ -24,6 +24,7 @@ canvas {
 button, input {
   margin: 0 auto;
   text-align: center;
+  background-image: linear-gradient(to right, red, lightblue);
 }
 
 
